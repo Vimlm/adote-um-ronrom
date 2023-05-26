@@ -1,0 +1,10 @@
+/* Global Imports */
+@import url(global/global.css);
+@import url(global/header.css);
+@import url(global/header.css);
+
+/* Imports Pages */
+@import url(pages/about.css);
+@import url(pages/catalog.css);
+@import url(pages/contact.css);
+@import url(pages/home.css);
