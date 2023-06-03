@@ -1,13 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&family=Raleway:wght@400;500&display=swap');
 
-.logo {
-  font: 500 4rem/1.2 'Chakra Petch', sans-serif;
+.font-logo {
+  font: 500 1rem/1.2 'Chakra Petch', sans-serif;
 }
 
-.titulo {
+.font-menu {
+  font: 500 1.2rem/1.2 'Raleway', sans-serif;
+
+}
+
+.font-title {
   font: 500 4rem/1.2 'Raleway', sans-serif;
 }
 
-.corpo-texto {
+.font-body-text {
   font: 400 2rem/1.2 'Raleway', sans-serif;
 }
