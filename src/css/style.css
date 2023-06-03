@@ -8,3 +8,7 @@
 @import url(pages/catalog.css);
 @import url(pages/contact.css);
 @import url(pages/home.css);
+
+/* Styles */
+@import url(style/colors.css);
+@import url(style/fonts.css);
