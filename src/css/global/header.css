@@ -1,0 +1,25 @@
+.header,
+.logo,
+.menu {
+  display: flex;
+}
+
+.header {
+  height: 6rem;
+  background: var(--bg-hf);
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  align-items: center;
+  gap: 20px;
+}
+
+.menu {
+  gap: 60px;
+}
+
+.logo > img {
+  width: 50px;
+}
