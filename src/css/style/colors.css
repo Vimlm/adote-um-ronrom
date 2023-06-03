@@ -1,5 +1,7 @@
 :root {
-  --bg: #FF8618;
+  --bg-p: #FF8618;
+  --bg-s: #FFAE63;
+  --bg-t: #FFA14A;
   --text: #111;
   --shadow: #222;
   --bg-hf: #f9f9f9;

@@ -4,11 +4,10 @@
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
-  font: sans-serif;
 }
 
 body {
-  background: var(--bg);
+  background: linear-gradient(0.25turn, var(--bg-p), var(--bg-s), var(--bg-t));
 }
 
 a {
@@ -26,5 +25,10 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 60px;
+}
+
+.vertical-align {
+  vertical-align: middle;
+  display: table-cell;
 }
 

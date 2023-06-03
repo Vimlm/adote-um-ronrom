@@ -20,6 +20,10 @@
   gap: 60px;
 }
 
+.menu a {
+  padding: 0.5rem 1rem;
+}
+
 .logo > img {
-  width: 50px;
+  width: 3.125rem;
 }
