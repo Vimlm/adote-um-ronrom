@@ -1,0 +1,9 @@
+:root {
+  --bg: #FF8618;
+  --texto: #111;
+  --bg-hf: #f9f9f9;
+}
+
+.cor-texto {
+  color: var(--texto);
+}
